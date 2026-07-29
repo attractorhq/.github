@@ -1,4 +1,4 @@
-exclude_mail = true
+include_mail = false
 exclude = [
   '^https://github\.com/attractorhq/(production-ai-checklist|ai-evals-starter|rag-quality-workshop)',
   '^https://github\.com/orgs/attractorhq/discussions',
