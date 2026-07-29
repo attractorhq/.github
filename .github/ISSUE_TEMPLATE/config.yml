@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/attractorhq/.github/security/advisories/new
+    about: Report vulnerabilities privately.
+  - name: General support
+    url: https://github.com/orgs/attractorhq/discussions
+    about: Ask a question or share implementation experience.
