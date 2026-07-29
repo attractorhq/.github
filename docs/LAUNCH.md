@@ -31,3 +31,28 @@ grounding, citations, injection resistance, access control, monitoring, and
 cost awareness.
 
 <https://github.com/attractorhq/rag-quality-workshop>
+
+## Tips for Building AI
+
+Building an AI product is mostly work around the model: choosing a useful
+decision, designing for uncertainty, understanding context, evaluating failure,
+keeping users in control, and owning the production system.
+
+We collected 24 practical, opinionated tips for engineers, designers, product
+people, and technical leaders. The guide is provider-neutral, openly licensed,
+and meant to evolve through real experience.
+
+<https://github.com/attractorhq/tips-for-building-ai>
+
+## AI Failure Drills
+
+The hardest time to decide who can stop an AI feature is during an incident. We
+open-sourced eight facilitator-ready tabletop exercises for rehearsing quality
+regressions, prompt injection, data exposure, provider outages, runaway agents,
+unsafe actions, stale data, and monitoring blind spots.
+
+Each drill takes 45–60 minutes, works offline, and includes roles, timed
+injects, debrief prompts, follow-up tools, and an A4 printable pack. No API keys
+or participant coding are required.
+
+<https://github.com/attractorhq/ai-failure-drills>

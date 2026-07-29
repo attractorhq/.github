@@ -1,26 +1,40 @@
+![Attractor — Build. Ship. Scale.](assets/attractor-open-source.svg)
+
 # Attractor open source
 
-We help teams turn promising AI prototypes into dependable products.
+We are a Finland-based product partner. We design and build digital products,
+and help teams turn promising AI prototypes into dependable services.
 
-Our open-source work focuses on the practical gap between a demo and a
-production service: evaluation, evidence, security, reliability, cost control,
-and clear operational ownership.
+Our open-source work shares the practical tools and lessons behind reliable
+delivery: useful outcomes, evaluation, evidence, security, operational
+ownership, and learning across disciplines.
 
-## Start here
+| Clarify | Build | Ship | Monitor |
+| --- | --- | --- | --- |
+| Frame the outcome and boundaries. | Make the smallest useful system real. | Prove it is ready for people and production. | Learn from quality, operations, and users. |
+
+## Ship reliable AI
 
 - [Production AI Checklist](https://github.com/attractorhq/production-ai-checklist)
-  is an evidence-based checklist and CLI for shipping reliable AI features.
-- [AI Evals Starter](https://github.com/attractorhq/ai-evals-starter) is a
-  provider-neutral Python starter for testing AI outputs in CI.
+  — assess production readiness and make missing evidence visible in CI.
+- [AI Evals Starter](https://github.com/attractorhq/ai-evals-starter)
+  — test recorded AI outputs with deterministic, provider-neutral scorers.
 - [RAG Quality Workshop](https://github.com/attractorhq/rag-quality-workshop)
-  contains hands-on TypeScript exercises for improving a RAG prototype.
+  — improve retrieval, grounding, security, monitoring, and cost hands-on.
 
-Every project is Apache-2.0 licensed, designed to run without model API keys,
-and maintained in English for the wider community.
+## Learn together
 
-## How to participate
+- [Tips for Building AI](https://github.com/attractorhq/tips-for-building-ai)
+  — practical, opinionated advice for teams building real-world AI products.
+- [AI Failure Drills](https://github.com/attractorhq/ai-failure-drills)
+  — facilitator-ready tabletop exercises for rehearsing production failures.
 
-Questions and practical experience are welcome. Read our
+Every project is Apache-2.0 licensed, maintained in English, and designed to
+start without model API keys or paid services.
+
+## Take part
+
+Questions, real experience, and focused contributions are welcome. Read our
 [contribution guide](../CONTRIBUTING.md) and the support policy in each
 repository before opening an issue.
 

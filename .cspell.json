@@ -10,7 +10,8 @@
     "LLMOps",
     "roadmap",
     "runbook",
-    "runbooks"
+    "runbooks",
+    "tabletop"
   ],
   "ignorePaths": ["LICENSE"]
 }
